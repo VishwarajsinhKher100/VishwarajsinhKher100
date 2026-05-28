@@ -16,7 +16,7 @@ I'm a passionate developer currently working on Langchain. I love turning comple
 
 ### 📊 My GitHub Stats
 
-[![Vishwaarajsinh's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=VishwarajsinhKher100&theme=default)](https://github.com/denvercoder1/github-readme-streak-stats)
+[![Vishwaarajsinh's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=VishwarajsinhKher100&v=1)](https://github.com/denvercoder1/github-readme-streak-stats)
 
 ### 📫 Let's Connect!
 - **LinkedIn:** www.linkedin.com/in/vishwarajsinhkher100
