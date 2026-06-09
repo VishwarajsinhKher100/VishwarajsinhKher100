@@ -7,7 +7,7 @@ I'm a passionate developer currently working on Langchain. I love turning comple
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Python
-- **Frameworks & Libraries:** Langchain, Sckilit-learn, NLTK, FastAPI, Langgraph
+- **Frameworks & Libraries:** Langchain, Sckilit-learn, NLTK, FastAPI, Langgraph, MCP
 - **Databases & Tools:** Git, Docker
 
 ### 🚀 Featured Projects
