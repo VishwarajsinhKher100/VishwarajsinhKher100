@@ -12,5 +12,4 @@ I'm a passionate developer currently working on Langchain. I love turning comple
 
 ### 📫 Let's Connect!
 - **LinkedIn:** www.linkedin.com/in/vishwarajsinhkher100
-- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
 - **Email:** vishwarajsinh.kher100@gmail.com
