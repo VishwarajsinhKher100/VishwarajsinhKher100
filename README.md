@@ -167,39 +167,12 @@ I also build smaller experiments across:
 
 ---
 
-## 🐍 Contribution Snake
-
-<details>
-<summary>Optional animated contribution visual</summary>
-
-After adding the supplied `snake.yml` workflow under `.github/workflows/` and running it once, you can enable this block:
-
-```html
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishwarajsinhkher100/vishwarajsinhkher100/main/profile/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishwarajsinhkher100/vishwarajsinhkher100/main/profile/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/vishwarajsinhkher100/vishwarajsinhkher100/main/profile/github-snake.svg" alt="GitHub contribution snake">
-</picture>
-```
-
-</details>
-
----
-
 ## 📈 Contribution Activity & Commit Graph
 
 <p align="center">
   <a href="https://github.com/VishwarajsinhKher100">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwarajsinhkher100&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph">
   </a>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishwarajsinhkher100&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub trophies">
 </p>
 
 ---
@@ -289,5 +262,4 @@ Reliable production AI systems
 
 ### “Build AI systems that are useful, reliable, and observable.”
 
-</div>
-::: ​​
+</div>​​
