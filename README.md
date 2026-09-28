@@ -10,7 +10,7 @@ Building practical AI systems with **RAG, LLM orchestration, secure retrieval, a
   <a href="https://github.com/VishwarajsinhKher100">
     <img src="https://img.shields.io/badge/GitHub-VishwarajsinhKher100-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/vishwarajsinhkher100">
+  <a href="https://www.linkedin.com/in/vishwaraj-kher">
     <img src="https://img.shields.io/badge/LinkedIn-Vishwarajsinh%20Kher-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:vishwarajsinh.kher100@gmail.com">
