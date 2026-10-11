@@ -1,8 +1,6 @@
 # Hi 👋, I'm Vishwarajsinh Kher 
 
-### A passionate Python developer
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VishwarajsinhKher100" alt="VishwarajsinhKher100" /></a> </p>
+### A passionate AI Engineer
 
 - 🔭 I'm currently working on **AI Full-Stack Project**
 
